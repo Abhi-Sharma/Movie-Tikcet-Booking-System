@@ -98,11 +98,11 @@ Open `frontend/index.html` (or use VS Code **Live Server**).
 
 ![](./screenshots/07-movies-grid.png)
 
-**FAQ section**
+**Movies page (alternate view)**
 
 ![](./screenshots/08-faq.png)
 
-**Movies page (alternate view)**
+**FAQ section**
 
 ![](./screenshots/09-movies-alt.png)
 
