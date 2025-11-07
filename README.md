@@ -42,10 +42,11 @@ Create a file `backend/.env` with your local DB credentials:
 ```env
 DB_HOST=127.0.0.1
 DB_USER=root
-DB_PASSWORD=abhisharma
+DB_PASSWORD=your_mysql_password
 DB_NAME=movie_ticket
 PORT=3000
-JWT_SECRET=supersecretkey123
+JWT_SECRET=your_jwt_secret_key
+
 ```
 
 ### 4) Create the database
